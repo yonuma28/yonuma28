@@ -6,6 +6,29 @@
 
 ---
 
+## 📊 Statistical Data
+
+Here’s a glance at my GitHub activity and contributions:
+
+- **Total Repositories**: ![Total Repos](https://img.shields.io/badge/Repos-20-blue?style=flat-square)
+- **Total Commits**: ![Total Commits](https://img.shields.io/badge/Commits-530-green?style=flat-square)
+- **Pull Requests Opened**: ![Pull Requests](https://img.shields.io/badge/PRs-15-yellow?style=flat-square)
+- **Issues Opened**: ![Issues Opened](https://img.shields.io/badge/Issues-8-orange?style=flat-square)
+
+---
+
+## 📅 Contribution Calendar
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yonuma28)
+
+---
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonuma28&layout=compact&show_icons=true)
+
+---
+
 ## 📝 Check out my contributions on Qiita!
 
 - **My Qiita Posts:**  
