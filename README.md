@@ -8,7 +8,12 @@
 
 ## 📊 Statistical Data
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;"> <div style="text-align: center;"> <img src="https://img.shields.io/badge/Repos-20-blue?style=flat-square" alt="Total Repos"> <p>リポジトリ数</p> </div> <div style="text-align: center;"> <img src="https://img.shields.io/badge/Commits-530-green?style=flat-square" alt="Total Commits"> <p>コミット数</p> </div> <div style="text-align: center;"> <img src="https://img.shields.io/badge/PRs-15-yellow?style=flat-square" alt="Pull Requests"> <p>PR 開始数</p> </div> <div style="text-align: center;"> <img src="https://img.shields.io/badge/Issues-8-orange?style=flat-square" alt="Issues Opened"> <p>オープンされた Issues</p> </div> </div>
+Here’s a glance at my GitHub activity and contributions:
+
+- **Total Repositories**: ![Total Repos](https://img.shields.io/badge/Repos-20-blue?style=flat-square)
+- **Total Commits**: ![Total Commits](https://img.shields.io/badge/Commits-530-green?style=flat-square)
+- **Pull Requests Opened**: ![Pull Requests](https://img.shields.io/badge/PRs-15-yellow?style=flat-square)
+- **Issues Opened**: ![Issues Opened](https://img.shields.io/badge/Issues-8-orange?style=flat-square)
 
 ---
 
