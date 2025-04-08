@@ -17,18 +17,6 @@ Here’s a glance at my GitHub activity and contributions:
 
 ---
 
-## 📅 Contribution Calendar
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yonuma28)
-
----
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonuma28&layout=compact&show_icons=true)
-
----
-
 ## 📝 Check out my contributions on Qiita!
 
 - **My Qiita Posts:**  
