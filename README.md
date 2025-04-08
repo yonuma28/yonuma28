@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=yonuma28)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonuma28&hide=contribs,prs)
 
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yonuma28/posts.svg)](http://qiita.com/yonuma28)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yonuma28/contributions.svg)](http://qiita.com/yonuma28)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/yonuma28/followers.svg)](http://qiita.com/yonuma28)
+                
 
